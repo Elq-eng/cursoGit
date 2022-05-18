@@ -7,3 +7,7 @@ body {
 .container {
     background-color: #8d8d8d;
 }
+
+.cabecera {
+    border-top: 1px solid #34f;
+}
