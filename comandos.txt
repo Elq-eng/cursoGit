@@ -4,3 +4,9 @@
  history ve lo que se ha hecho en linea de comandos
  rm "filename" eliminar archivos
  git init iniciar repositorio
+ git status ver el estado actual de los archivos antes del commit
+ git add se agregan los archivos en el git init o en ese carpeta y estan listos para hacer git commit
+ git rm --cached elimina lo que se agrego con git add .
+ git commit -m "siempre dejar un comentario"
+ git config --list lista la configuracion de git en tu pc 
+ git log muestra los commits con los archivos modificados  
