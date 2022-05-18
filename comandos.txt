@@ -17,3 +17,5 @@
  git checkout "numero de commit" "filename" remota una version de commits anteriores git commit -am puede agregar y hacer commit de archivos que se hayan guardado anteriormente 
  git branch "name" para crear otra cabecera
  git checkout "name" cambio de rama 
+ git merge "rama secundaria" se pasa a una rama principal como master, y luego se hace merge con la rama con la que se quiera unir.
+ 
