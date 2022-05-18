@@ -11,4 +11,7 @@
  git config --list lista la configuracion de git en tu pc 
  git log muestra los commits con los archivos modificados  
  git show "filename" muestra los cambios que se hicieron dentro del archivos
- git reset devuelve al commit anterior
+ git reset "numero del commit" devuelve al commit anterior
+ git diff muestra los cambios de manera local y en el repositorio 
+ git log --stat muestra los commit mas especificos
+ git checkout "numero de commit" "filename" remota una version de commits anteriores git 
