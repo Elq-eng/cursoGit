@@ -1,0 +1,6 @@
+ ls -al  mostrar los archivos ocultos en forma de una lista
+ touch  "filename"  crear archivos vacios .txt
+ cat "filename" ve lo que esta adentro 
+ history ve lo que se ha hecho en linea de comandos
+ rm "filename" eliminar archivos
+ git init iniciar repositorio
