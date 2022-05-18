@@ -14,4 +14,6 @@
  git reset "numero del commit" devuelve al commit anterior
  git diff muestra los cambios de manera local y en el repositorio 
  git log --stat muestra los commit mas especificos
- git checkout "numero de commit" "filename" remota una version de commits anteriores git 
+ git checkout "numero de commit" "filename" remota una version de commits anteriores git commit -am puede agregar y hacer commit de archivos que se hayan guardado anteriormente 
+ git branch "name" para crear otra cabecera
+ git checkout "name" cambio de rama 
